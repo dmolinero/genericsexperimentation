@@ -1,0 +1,16 @@
+vendor
+main
+.idea
+messaging-service*
+.DS_Store
+access.log
+
+### Terraform ###
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+*.out
